@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MultiSingleList</string>
+
+    <string-array name="multipleChoices">
+        <item>Onion</item>
+        <item>Lettuce</item>
+        <item>Tomato</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
